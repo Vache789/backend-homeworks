@@ -1,0 +1,25 @@
+{
+  "userid": 879,
+  "firstname": "David",
+  "lastname": "Miller",
+  "emailaddress": "david.miller@example.org",
+  "isactive": true,
+  "createdat": "2024-09-18T14:45:00Z",
+  "addressinfo": {
+    "streetname": "Elm Street",
+    "postalcode": "90210",
+    "cityname": "Los Angeles"
+  },
+  "orderlist": {
+    "0": {
+      "orderid": 101,
+      "productname": "Tablet",
+      "orderdate": "2024-09-10"
+    },
+    "1": {
+      "orderid": 102,
+      "productname": "Smartphone",
+      "orderdate": "2024-09-12"
+    }
+  }
+}

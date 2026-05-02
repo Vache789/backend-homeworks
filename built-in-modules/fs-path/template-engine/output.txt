@@ -1,0 +1,9 @@
+Hello Gnel,
+
+Welcome to TechCorp!
+We are happy to have you in Davtashen.
+
+Your role is: Backend Developer
+
+Best regards,
+TechCorp Team
