@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "username": "vache_admin",
+    "email": "admin@example.com",
+    "password": "password123",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "username": "armand_super_admin",
+    "email": "customer@example.com",
+    "password": "customer123",
+    "role": "admin"
+  },
+  {
+    "id": 3,
+    "username": "Arm",
+    "email": "vache@example1.com",
+    "password": "password1234",
+    "role": "admin"
+  }
+]
