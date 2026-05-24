@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="../css/style.css" />
+  </head>
+  <body>
+    <div class="box dashboard">
+      <h1>Dashboard</h1>
+
+      <h3 id="userEmail">Loading user...</h3>
+
+      <button id="loadPostsBtn" onclick="loadPosts()">Load Posts</button>
+
+      <div id="posts"></div>
+
+      <p id="message" style="color: red; margin-top: 10px"></p>
+
+      <button id="logoutBtn" onclick="logout()">Logout</button>
+    </div>
+
+    <script src="../js/dashboard.js"></script>
+    <script src="../js/posts.js"></script>
+    <script src="../js/logout.js"></script>
+  </body>
+</html>
